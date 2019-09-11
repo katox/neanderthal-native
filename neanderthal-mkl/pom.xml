@@ -103,6 +103,11 @@
                                     <option>I${MKLROOT}/include</option>
                                 </options>
                             </cpp>
+                            <c>
+                                <options>
+                                    <option>-I${MKLROOT}/include</option>
+                                </options>
+                            </c>
                         </configuration>
                     </plugin>
                 </plugins>
